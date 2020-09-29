@@ -24,7 +24,7 @@ const NavBar = () => {
          Add Movie
        </NavLink>
      </div>
-  
+
   );
 }
 
