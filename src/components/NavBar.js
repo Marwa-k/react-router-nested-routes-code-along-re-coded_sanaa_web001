@@ -9,7 +9,7 @@ const NavBar = () => {
         to="/"
       >
         Home
-    /*  </NavLink>
+      </NavLink> /*
       <NavLink
         style={{ marginRight: '10px' }}
         to="/movies"
